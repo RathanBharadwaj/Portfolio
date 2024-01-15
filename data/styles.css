@@ -1,0 +1,110 @@
+﻿.ax_default {
+  font-family:'72', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.shape {
+}
+.image {
+}
+.heading_1 {
+  font-family:'72', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'72', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'72', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'72', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'72', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'72', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.shadow_level_0 {
+  color:#6A6D70;
+}
+.shadow_level_1 {
+  color:#6A6D70;
+}
+.shadow_level_2 {
+}
+.flow_shape {
+}
+.line {
+}
+.connector {
+  font-size:11px;
+}
+.image1 {
+}
+.shape1 {
+}
+.box_1 {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.line1 {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.paragraph1 {
+  text-align:left;
+}
+.shape2 {
+}
+.paragraph2 {
+  text-align:left;
+}
+.icon {
+}
+textarea, select, input, button { outline: none; }
